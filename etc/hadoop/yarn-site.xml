@@ -15,7 +15,7 @@
 <configuration>
     <property>
         <name>yarn.resourcemanager.hostname</name>
-        <value>10.11.1.179</value>
+        <value>10.10.0.223</value>
     </property>
     <property>
         <name>yarn.nodemanager.aux-services</name>
@@ -71,7 +71,7 @@
     </property> -->
     <property>
         <name>yarn.nodemanager.resource.memory-mb</name>
-        <value>4096</value>
+        <value>4096</value>    
     </property>
     <property>
         <name>yarn.scheduler.minimum-allocation-mb</name>
